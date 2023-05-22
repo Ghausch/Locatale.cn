@@ -1,0 +1,1 @@
+# Locatale.cn
